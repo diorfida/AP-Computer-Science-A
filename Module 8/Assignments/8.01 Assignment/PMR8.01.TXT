@@ -1,0 +1,14 @@
+PROJECT TITLE: 8.01 Assignment
+PURPOSE OF PROJECT: To implement sequential search methods.
+VERSION or DATE: 2/12/21
+AUTHORS: Domenic Iorfida
+
+Initial Successes:
+I successfully declared the array of music with no issues. I also was able to
+create and use the searching methods necessay to scan and find elements in the
+music array. Lastly, I printed that information to the output screen which was
+really simple to do.
+
+Struggles and Overcoming Them:
+There weren't any problems that I had in creating this program. I was able to
+complete all of the tasks with ease.

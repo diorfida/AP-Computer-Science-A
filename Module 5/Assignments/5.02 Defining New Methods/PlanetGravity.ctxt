@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PlanetGravity
+comment0.text=\r\n\ Program\ that\ determines\ the\ surface\ gravity\ in\ grams\ on\ Mars.\r\n\r\n\ @author\ Domenic\ Iorfida\r\n\ @version\ 11/2/20\r\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=planet\ diameter\ mass\ surfaceGravity
+comment2.target=void\ printAll(java.lang.String,\ double,\ double,\ double)
+comment3.params=mass\ radius
+comment3.target=double\ calcSurfaceGravity(double,\ double)
+numComments=4

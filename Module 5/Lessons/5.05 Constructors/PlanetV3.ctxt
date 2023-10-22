@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PlanetV3
+comment0.text=\r\n\ @purpose\:\ PlanetV3\ object\ -\ uses\ the\ default\ constructor\ \r\n\r\n\ @author\ APCS\ Team\r\n\ @version\ FLVS\ 2020\r\n
+comment1.params=
+comment1.target=PlanetV3()
+comment2.params=diameter
+comment2.target=double\ calcRadius(double)
+comment3.params=n\ rad
+comment3.target=void\ printPlanet(java.lang.String,\ double)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

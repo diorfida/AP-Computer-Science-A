@@ -1,0 +1,15 @@
+PROJECT TITLE: 8.02 Assignment
+PURPOSE OF PROJECT: To use a binary search and sorting methods
+VERSION or DATE: 2/11/21
+AUTHORS: Domenic Iorfida
+
+Initial Successes:
+I was able to create the binary search methods. They were pretty easy to create,
+even though at first I didn't entirely understand the concept. I also chose to use
+selection sort methods to sort the array for the binary search, which I also
+created easily.
+
+Struggles and Overcoming them:
+There wasn't really anything that I struggled with in this assignment. The hardest
+part for me was keeping track of the main array and how it was sorted at each point
+in the program, so I think documenting the code would help me a lot in the future.

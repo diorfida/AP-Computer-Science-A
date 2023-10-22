@@ -1,0 +1,20 @@
+PROJECT TITLE: 4.06 Monte Carlo Method
+PURPOSE OF PROJECT: To use loops and text files to simulate counting squirrels in
+differet trials.
+VERSION or DATE: 10/26/20
+AUTHORS: Domenic Iorfida
+
+Initial Successes:
+I was able to call and declare all of the classes that I needed to use to complete
+the project. I also knew I needed to initialize the Scanner class for two different
+instances, once for taking user input and once for the text files. Through the
+pseudocode planning, I had a general idea of how I was going to use the loops. I
+had no trouble with the first loop asking the user for the number of trials.
+
+Struggles and Overcoming Them:
+For the counter program itself, I tried using a for loop as the main loop and have
+another for loop inside of the larger one. The issue that I had with this was using
+the counter variable (which I had called totalSims) outside of the loop. I realized
+that this wasn't possible, so I switched to a while loop and initialized the
+counter before the loop so that I could use it outside. I also had a small issue
+where I didn't close the text file after writing it before trying to read it.

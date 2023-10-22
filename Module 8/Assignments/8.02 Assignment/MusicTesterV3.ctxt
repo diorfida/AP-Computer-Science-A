@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=MusicTesterV3
+comment0.text=\r\n\ Runner\ class\ for\ the\ Music\ object.\r\n\r\n\ @author\ Domenic\ Iorfida\r\n\ @version\ 2/11/21\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=music\ target
+comment10.target=void\ binarySearchYear(MusicV3[],\ int)
+comment11.params=music\ target
+comment11.target=void\ binarySearchArtist(MusicV3[],\ java.lang.String)
+comment2.params=music
+comment2.target=void\ printMusicArray(MusicV3[])
+comment3.params=music\ title
+comment3.target=void\ sequentialSearchTitle(MusicV3[],\ java.lang.String)
+comment4.params=music\ year
+comment4.target=void\ sequentialSearchYear(MusicV3[],\ int)
+comment5.params=music\ artist
+comment5.target=void\ sequentialSearchArtist(MusicV3[],\ java.lang.String)
+comment6.params=music
+comment6.target=void\ selectionSortTitle(MusicV3[])
+comment7.params=music
+comment7.target=void\ selectionSortYear(MusicV3[])
+comment8.params=music
+comment8.target=void\ selectionSortArtist(MusicV3[])
+comment9.params=music\ target
+comment9.target=void\ binarySearchTitle(MusicV3[],\ java.lang.String)
+numComments=12

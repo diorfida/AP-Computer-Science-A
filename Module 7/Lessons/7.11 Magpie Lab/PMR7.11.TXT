@@ -1,0 +1,15 @@
+PROJECT TITLE: 7.11 Magpie Lab
+PURPOSE OF PROJECT: APCSA Lab to use string methods and logic.
+VERSION or DATE: 2/10/21
+AUTHORS: Domenic Iorfida
+
+Initial Successes:
+I was able to follow the general idea of the new I want to and you me methods for
+generating responses. I was able to add the new methods as well in the correct
+spot for the program to properly function. I was also able to easily modify the
+get random response method to utilize an array rather than going through a bunch
+of if-else-if statements.
+
+Struggles and Overcoming them:
+The instructions and procedure were very clear and specific, therefore I did not
+have any trouble with this lab.

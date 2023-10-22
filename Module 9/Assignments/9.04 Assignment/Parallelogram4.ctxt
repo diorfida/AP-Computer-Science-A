@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Parallelogram4
+comment0.text=\r\n\ Parallelogram\ object.\r\n\r\n\ @author\ Domenic\ Iorfida\r\n\ @version\ 3/2/21\r\n
+comment1.params=l\ w\ s1\ s2
+comment1.target=Parallelogram4(int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getSide1()
+comment3.params=
+comment3.target=int\ getSide2()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

@@ -1,0 +1,18 @@
+PROJECT TITLE: 2.10 Online Purchase - BuyMovieTickets
+PURPOSE OF PROJECT: To use what I have learned over the past two modules to create
+a program to buy a movie ticket and print an e-reciept based on user input.
+VERSION or DATE: 9/24/20
+AUTHORS: Domenic Iorfida
+
+Initial Successes:
+I was able to initialize and use the scanner class methods with ease. I was also
+able to use parsing somewhat correctly (more on that later). I additionally was
+able to create all of the necessary variables to complete the e-reciept.
+
+Struggles and Overcoming Them:
+The main struggle for me with this project was using the string methods,
+specifically the substring method. This was because I kept losing sight of the fact
+that a string starts at index 0 and increases from there, rather than one. I also
+sometimes forgot (but less frequently than the other one) that the substring
+method's second paramater is noninclusive. After some troubleshooting with print
+statements, I was able to get these figured out.

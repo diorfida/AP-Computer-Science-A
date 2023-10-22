@@ -1,0 +1,17 @@
+PROJECT TITLE: 5.02 Defining New Methods
+PURPOSE OF PROJECT: To use static methods to print data about planets.
+VERSION or DATE: 11/2/20
+AUTHORS: Domenic Iorfida
+
+Initial Successes:
+The concept of defining methods to run code through is not difficult, but it is
+different than what I have gotten used to. I was able to define these methods and
+use them how I believe they were supposed to be used. The method for determining
+the surface gravity was a pretty straightforward formula to program. I also
+remembered to use the Math.pow() function to raise certain numbers to a power
+instead of continually multiplying.
+
+Struggles and Overcoming Them:
+The only thing that I struggled with in this assignment was formating the decimal
+numbers to be printed, since I don't use printf() that often. Other than that this
+project was pretty easy for me.

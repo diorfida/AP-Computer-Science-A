@@ -1,0 +1,16 @@
+PROJECT TITLE: 10.05 Fibonacci
+PURPOSE OF PROJECT: To use recursive algorithms to display the nth Fibonacci number
+VERSION or DATE: 3/25/21
+AUTHORS: Domenic Iorfida
+
+Initial Successes:
+I successfully created the OOP class needed to contain the Fibonacci finder method.
+I also was able to apply a recursive algorithm to this situation in the form of a
+piecewise function. I also created the menu screen output in a neat fashion.
+Lastly, I found the bounds to where the program works on my computer's processor
+and factored that into the menu.
+
+Struggles and Overcoming them:
+I believe that I fully understand the concept of recursion, but the only thing that
+I "struggled" on was the scanner object because I forgot to import it. Other than
+that I was fine.

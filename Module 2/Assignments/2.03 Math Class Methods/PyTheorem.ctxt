@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PyTheorem
+comment0.text=\r\n\ Program\ that\ calculates\ the\ hypotenuse\ of\ a\ right\ triangle\ with\ randomly\r\n\ generated\ side\ lengths.\r\n\r\n\ @author\ Domenic\ Iorfida\r\n\ @version\ 9/16/20\r\n
+comment1.params=
+comment1.target=void\ main()
+numComments=2

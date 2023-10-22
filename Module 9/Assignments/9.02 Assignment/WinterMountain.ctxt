@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=WinterMountain
+comment0.text=\r\n\ Winter\ Mountain\ class.\r\n\r\n\ @author\ Domenic\ Iorfida\r\n\ @version\ 2/24/21\r\n
+comment1.params=length\ width\ num\ temp
+comment1.target=WinterMountain(int,\ int,\ int,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getWinterMountainSize()
+numComments=3

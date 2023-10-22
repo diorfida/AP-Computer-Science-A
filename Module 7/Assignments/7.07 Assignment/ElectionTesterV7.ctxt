@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=ElectionTesterV7
+comment0.text=\r\n\ Array\ version\ of\ the\ tester\ class\ for\ the\ Candidate\ Object\r\n\r\n\ @author\ Domenic\ Iorfida\r\n\ @version\ 2/7/21\r\n
+comment1.params=candidates
+comment1.target=void\ printCandidates(Candidate[])
+comment10.params=candidates\ findName
+comment10.target=void\ deleteCandidateByName(Candidate[],\ java.lang.String)
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment2.params=candidates
+comment2.target=int\ totalVotesCast(Candidate[])
+comment3.params=candidates\ total
+comment3.target=void\ printElectionTable(Candidate[],\ int)
+comment4.params=candidates\ oldName\ newName
+comment4.target=void\ changeName(Candidate[],\ java.lang.String,\ java.lang.String)
+comment5.params=candidates\ nameFind\ newVotes
+comment5.target=void\ changeVotes(Candidate[],\ java.lang.String,\ int)
+comment6.params=candidates\ nameFind\ newName\ newVotes
+comment6.target=void\ changeAll(Candidate[],\ java.lang.String,\ java.lang.String,\ int)
+comment7.params=candidates\ position\ name\ votes
+comment7.target=Candidate[]\ insertCandidateByPosition(Candidate[],\ int,\ java.lang.String,\ int)
+comment8.params=candidates\ nameFind\ name\ votes
+comment8.target=Candidate[]\ insertCandidateByName(Candidate[],\ java.lang.String,\ java.lang.String,\ int)
+comment9.params=candidates\ position
+comment9.target=void\ deleteCandidateByPosition(Candidate[],\ int)
+numComments=12

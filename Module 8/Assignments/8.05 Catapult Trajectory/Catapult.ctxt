@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Catapult
+comment0.text=\r\n\ Catapult\ object\r\n\r\n\ @author\ Domenic\ Iorfida\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=angle\ speed
+comment1.target=Catapult(int,\ int)
+comment2.params=
+comment2.target=int\ getAngle()
+comment3.params=
+comment3.target=int\ getSpeed()
+comment4.params=newAngle
+comment4.target=void\ setAngle(int)
+comment5.params=newSpeed
+comment5.target=void\ setSpeed(int)
+comment6.params=
+comment6.target=double\ getTrajectory()
+comment7.params=mph
+comment7.target=double\ toMetersPerSec(double)
+numComments=8

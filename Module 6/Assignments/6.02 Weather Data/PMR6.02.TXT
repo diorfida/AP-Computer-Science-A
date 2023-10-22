@@ -1,0 +1,18 @@
+PROJECT TITLE: 6.02 Weather Data
+PURPOSE OF PROJECT: To use arrays and printf to display weather data.
+VERSION or DATE: 1/8/20
+AUTHORS: Domenic Iorfida
+
+Initial Successes:
+I was able to initialize multiple static methods to compute the different totals
+and averages as well as add and convert information inside of the arrays. Using
+arrays was not very difficult for me; I understand the concept pretty well so far.
+I was also able to initialize and use the scanner class for user input. After some
+trial and error, I neatly formatted the output using printf.
+
+Struggles and Overcoming Them:
+The hardest part for me was using the identifiers in printf to display the output.
+I struggled with remembering the concept of using the identifiers as intended,
+since I had not yet "mastered" the identifiers. I kept forgetting certain things
+like a percent or how to left align. I'm sure that I will get better at it as I
+continue to use it.

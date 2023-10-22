@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ElectionTesterV2
+comment1.params=candidates
+comment1.target=void\ printCandidates(java.util.ArrayList)
+comment2.params=candidates
+comment2.target=int\ totalVotesCast(java.util.ArrayList)
+comment3.params=candidates\ total
+comment3.target=void\ printElectionTable(java.util.ArrayList,\ int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

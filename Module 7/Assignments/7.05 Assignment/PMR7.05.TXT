@@ -1,0 +1,15 @@
+PROJECT TITLE: 7.05 Assignment
+PURPOSE OF PROJECT: To use traversals and replacements.
+VERSION or DATE: 2/7/21
+AUTHORS: Domenic Iorfida
+
+Initial Successes:
+I was able to set up my tester classes in the static method format with no issue. I
+also was able to format the output table with very few issues compared to previous
+assignments. The traversals and replacements were also pretty easy to implement
+since they are almost the same types of loops used in previous lessons.
+
+Struggles and Overcoming them:
+There isn't really anything that I struggled with. The concept of the assignment
+was basically a deeper dive into concepts that we had already learned. Overall I
+really enjoyed the application of this assignment.

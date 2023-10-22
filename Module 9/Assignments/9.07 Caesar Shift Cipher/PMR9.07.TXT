@@ -1,0 +1,15 @@
+PROJECT TITLE: 9.07 Caesar Shift Cipher
+PURPOSE OF PROJECT: To implement a ceaser shift.
+VERSION or DATE: 3/9/21
+AUTHORS: Domenic Iorfida
+
+Initial Successes:
+I properly declared the two implementation classes and the client tester class. I
+also created the menu for choosing between encryption, decryption, and quitting.
+I was able to encrypt the alphabet pretty easily.
+
+Struggles and Overcoming them:
+When I first created the encrypt method in the Encryption class, it wasn't working
+as intended. The key was right, but something about the algorithm was off. I
+figured out that I needed to include a while loop in the else-if statement so that
+the shift scale would be in bounds instead of a single statement.

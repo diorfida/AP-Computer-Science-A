@@ -1,0 +1,17 @@
+PROJECT TITLE: 6.05 Magpie Lab
+PURPOSE OF PROJECT: To learn to use string methods on a broader scale
+VERSION or DATE: 1/25/21
+AUTHORS: Laurie White from College Board, Domenic Iorfida
+
+Initial Successes:
+I was able to use the new string methods without any issues. I was also able to
+modify the source code for magpie to add output for pets and teacher names pretty
+easily. The getResponse method was fairly easy to interpret. I had no trouble with
+adding more random responses to the getRandomResponse method. Lastly, I
+successfully modified the getResponse to include the findKeyword method instead of
+the indexOf method for identifying keywords.
+
+Struggles and Overcoming Them:
+The findKeyword method was a little bit overwhelming at first. Performing a desk
+check and thouroughly reading the lesson's guidance really helped me to understand
+how it works.

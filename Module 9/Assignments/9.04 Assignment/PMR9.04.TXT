@@ -1,0 +1,17 @@
+PROJECT TITLE: 9.04 Assignment
+PURPOSE OF PROJECT: To override methods such as toString and equals.
+VERSION or DATE: 3/3/21
+AUTHORS: Domenic Iorfida
+
+Initial Successes:
+I properly declared all of the shape OOP classes and was able to use them in a
+client class. I also was able to override the toString method for each pretty
+easily.
+
+Struggles and Overcoming them:
+The hardest part for me was overriding the equals method. I struggled with using
+the instanceof keyword at first, but that turned out to be no big deal. I was
+trying to compare substrings of each object's toString methods, but that didn't
+work how I wanted it to. I then figured out to just compare the instance variables
+instead of the toString, which turned out to work much better than how I was
+attempting it.

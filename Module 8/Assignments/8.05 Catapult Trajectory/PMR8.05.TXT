@@ -1,0 +1,16 @@
+PROJECT TITLE: Domenic Iorfida
+PURPOSE OF PROJECT: To use a 2D array to store and print information.
+VERSION or DATE: 2/16/21
+AUTHORS: Domenic Iorfida
+
+Initial Successes:
+I successfully created and used the 2D array of catapult objects. I also was able
+to create the OOP catapult object class after some iteration. Lastly, I correctly
+and neatly formatted the output table.
+
+Struggles and Overcoming them:
+The instructions for the assignment overall were somewhat confusing. The general
+idea was pretty vague as to what belongs in which class. I had started out by
+creating all of the arrays and even the 2D array in the OOP class when I later
+figured out that it was supposed to go in the tester. This is why I feel that I
+had to go through so many iterations of the object class.

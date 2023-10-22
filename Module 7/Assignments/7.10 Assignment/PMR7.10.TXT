@@ -1,0 +1,16 @@
+PROJECT TITLE: 7.10 Assignment
+PURPOSE OF PROJECT: To utilize selection sorts on arrays.
+VERSION or DATE: 2/9/21
+AUTHORS: Domenic Iorfida
+
+Initial Successes:
+I created the tester class and declared the methods with no issues. I also was able
+to print the information for each movie to the output window easily. Lastly, I was
+able to create and use the methods for sorting the array elements.
+
+Struggles and Overcoming them:
+I didn't really struggle with anything in this project. I found this method of
+sorting array elements much easier than the insertion sort. The variables and
+keeping track of them was much more straightforward in the selection sort, maybe
+because I had previously worked with the similar but different concept in selection
+sorting.

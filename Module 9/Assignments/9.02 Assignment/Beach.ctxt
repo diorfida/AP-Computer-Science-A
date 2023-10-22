@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Beach
+comment0.text=\r\n\ Beach\ terrain\ class.\r\n\r\n\ @author\ Domenic\ Iorfida\r\n\ @version\ 2/25/21\r\n
+comment1.params=length\ width\ highTide
+comment1.target=Beach(int,\ int,\ boolean)
+comment2.params=
+comment2.target=boolean\ getHighTide()
+comment3.params=
+comment3.target=java.lang.String\ getBeachSize()
+numComments=4

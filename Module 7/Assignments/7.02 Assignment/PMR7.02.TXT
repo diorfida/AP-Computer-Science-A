@@ -1,0 +1,16 @@
+PROJECT TITLE: 7.02 Assignment
+PURPOSE OF PROJECT: To use the ArrayList to store cheesecake objects.
+VERSION or DATE: 2/4/21
+AUTHORS: Domenic Iorfida
+
+Initial Successes:
+I was able to properly use an ArrayList to hold the objects of the cheesecake
+class. I also created the object class with no problem, complete with the
+constructor as well as calculation and getter methods.
+
+Struggles and Overcoming Them:
+The main thing that I struggled with was printing the information. I wasn't
+entirely sure how I wanted to get all of the data from the ArrayList. Once I had
+figured that out, the String.format() was also difficult. The modifiers are very
+picky and in my opinion difficult to work with. It took some trial and error, but
+I believe that the output looks nice now.

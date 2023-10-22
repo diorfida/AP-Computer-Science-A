@@ -1,0 +1,20 @@
+PROJECT TITLE: 4.07 Password Generator
+PURPOSE OF PROJECT: To use loops and text file strategies to create passwords with
+user specifications.
+VERSION or DATE: 10/28/20
+AUTHORS: Domenic Iorfida
+
+Initial Successes:
+From the start, I knew what classes I needed to import and initialize. I made sure
+to throw the IOException since I was using a text file. I also knew that I was
+going to need quite a few nested loops to achieve the project's goal. To my 
+surprise I recalled and used the methods for text files without having to look back
+at the lessons.
+
+Struggles and Overcoming Them:
+At first, I was using the proper statements to get where I needed to go, but it got
+a bit more complicated once there were a lot of statements. Sometimes it was a bit
+difficult to determine where a certain statement needed to go because there were so
+many brackets. I decided to use comments to keep track of which loop is what. I did
+struggle a bit with generating the password because I forgot to reset certain
+counters and tokens after each individual use.

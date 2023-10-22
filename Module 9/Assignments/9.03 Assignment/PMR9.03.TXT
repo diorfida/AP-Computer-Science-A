@@ -1,0 +1,16 @@
+PROJECT TITLE: 9.03 Assignment
+PURPOSE OF PROJECT: To demonstrate polymorphism with sample shape classes.
+VERSION or DATE: 3/1/21
+AUTHORS: Domenic Iorfida
+
+Initial Successes:
+I declared the circle objects as each of the shapes that they needed to be and
+successfully put them into an ArrayList. I also properly created the getName
+methods in each of the object classes. Lastly, I created the showCenter method
+and passed each element of the ArrayList into it and printed the results to the
+output screen.
+
+Struggles and Overcoming Them:
+There isn't really anything that I struggled with in this assignment. The concept
+seemed super complicated in the eIMACS labs, but once I got into actually
+practicing the concept of polymorphism I was good to go.

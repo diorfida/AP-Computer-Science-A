@@ -1,0 +1,17 @@
+PROJECT TITLE: 2.03 Math Class Methods
+PURPOSE OF PROJECT: Use the methods in Java's Math class to calculate the length
+of the hypotenuse of a triangle.
+VERSION or DATE: 9/16/20
+AUTHORS: Domenic Iorfida
+
+Initial Successes:
+Given that finding the length of a missing side of a triangle is very common in 
+math and robotic "odometry" programming, I knew what calculation I needed to 
+perform and the methods that would get me there. I was also able to successfuly
+perform string concatenation with the print statements.
+
+Struggles and Overcoming Them:
+The Math.random() function was a little bit tricky to work with; I didn't 
+completley understand how to set the number bound at first. After reading it back 
+in the lesson a few times, I was able to understand the nature of the random
+method and why multiplying and adding was necessary.

@@ -1,0 +1,18 @@
+PROJECT TITLE: 1.09 Assignment
+PURPOSE OF PROJECT: Work with ints and doubles.
+VERSION or DATE: 9/4/20, V6
+AUTHORS: Domenic Iorfida
+
+Initial Successes:
+Right from the start, I was successful with the print statements from the previous
+lessons. I also had known my operators and order of operations due to my prior
+programming experience, so I didn't have much trouble with that.
+
+Struggles and Overcoming Them:
+My biggest thing was forgetting to include the plus + sign between the different
+variables and strigs for concatenation. I would keep getting the syntax errors.
+
+What I Need to Work on:
+I just need to proofread and watch my syntax. If I work a bit more cautiously and
+check what I'm doing at regular intervals instead of just running through replacing 
+things, I would be a lot better off.

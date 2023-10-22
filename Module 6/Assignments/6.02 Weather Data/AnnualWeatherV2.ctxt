@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=AnnualWeatherV2
+comment1.params=temps
+comment1.target=double\ calcAverageTemp(double[])
+comment2.params=precip
+comment2.target=double\ calcTotalPrecipitation(double[])
+comment3.params=monthsAbbreviated\ daytonaTempF\ daytonaPrecipInch\ averageTemp\ totalPrecip\ tempIdentifier\ precipIdentifier
+comment3.target=void\ printResults(java.lang.String[],\ double[],\ double[],\ double,\ double,\ java.lang.String,\ java.lang.String)
+comment4.params=tempsF
+comment4.target=double[]\ temperaturesToCelcius(double[])
+comment5.params=precipInch
+comment5.target=double[]\ precipsToCentimeters(double[])
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

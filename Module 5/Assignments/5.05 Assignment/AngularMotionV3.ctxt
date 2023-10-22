@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=AngularMotionV3
+comment0.text=\r\n\ Program\ that\ converts\ rpm\ values\ to\ velocity\ values.\r\n\r\n\ @author\ Domenic\ Iorfida\r\n\ @version\ 11/5/20\r\n
+comment1.params=
+comment1.target=AngularMotionV3()
+comment2.params=rpm
+comment2.target=double\ toRadiansPerSecond(double)
+comment3.params=radPerSec\ wheelRadius
+comment3.target=double\ toDegreesPerSecond(double,\ double)
+comment4.params=
+comment4.target=void\ main()
+numComments=5

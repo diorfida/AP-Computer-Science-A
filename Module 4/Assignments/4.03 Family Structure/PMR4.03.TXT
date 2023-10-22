@@ -1,0 +1,19 @@
+PROJECT TITLE: 4.03 Family Structure
+PURPOSE OF PROJECT: To use text files and file methods to gather and use large data
+sets.
+VERSION or DATE: 10/20/20
+AUTHORS: Domenic Iorfida
+
+Initial Successes:
+I was able to initialize and use all of the counter variables properly. That being
+said, I also used the while loop as it is intended in this situation. I had the
+concept of the while loop and counter down and used the file methods properly.
+
+Struggles and Overcoming Them:
+At first with the while loop and test file, I wasn't getting the correct number of
+males and females, since I started with just those. In fact, I wasn't getting
+anything. This was because I was using == instead of the equals() method. The other
+big issue that I had was with printf to print to the proper number of decimal
+places. I figured out that I kept getting the no modifier present error because I
+was using a plus instead of a comma. Other than that I didn't have any major issues
+and really enjoyed this project. 

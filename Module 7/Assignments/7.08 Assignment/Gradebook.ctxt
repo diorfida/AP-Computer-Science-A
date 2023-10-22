@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Gradebook
+comment1.params=students
+comment1.target=void\ printTable(java.util.ArrayList)
+comment2.params=students\ oldName\ newName
+comment2.target=void\ replaceStudentName(java.util.ArrayList,\ java.lang.String,\ java.lang.String)
+comment3.params=students\ findName\ gradeNum\ newGrade
+comment3.target=void\ replaceStudentGrade(java.util.ArrayList,\ java.lang.String,\ int,\ int)
+comment4.params=students\ findName\ newName\ q1\ q2\ q3\ q4\ q5
+comment4.target=void\ replaceStudent(java.util.ArrayList,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int,\ int)
+comment5.params=students\ findName\ newName\ q1\ q2\ q3\ q4\ q5
+comment5.target=void\ addStudentBefore(java.util.ArrayList,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int,\ int)
+comment6.params=students\ delete
+comment6.target=void\ deleteStudent(java.util.ArrayList,\ java.lang.String)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

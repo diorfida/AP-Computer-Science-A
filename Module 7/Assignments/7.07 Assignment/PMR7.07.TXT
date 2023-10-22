@@ -1,0 +1,17 @@
+PROJECT TITLE: 7.07 Assignment
+PURPOSE OF PROJECT: To use insertion and deletion methods.
+VERSION or DATE: 2/7/21
+AUTHORS: Domenic Iorfida
+
+Initial Successes:
+I was able to properly declare and use the static methods for inserting and
+deleting array and ArrayList elements. I also printed the results without any
+issues. I was able to create the insert algorithms easily.
+
+Struggles and Overcoming them:
+I struggled a bit with the concept of using null in the deletion methods. I ended
+up of just thinking of it as a placeholder rather than modifying the entire size
+of the array. I then had to fix everything so it wouldn't throw the null pointer
+exception, which took some time to figure out. I eventually realized that all I
+needed to do was check if the instance was null or not and then perform actions
+based on that decision.

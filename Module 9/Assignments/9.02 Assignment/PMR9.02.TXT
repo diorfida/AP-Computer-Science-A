@@ -1,0 +1,16 @@
+PROJECT TITLE: 9.02 Assignment
+PURPOSE OF PROJECT: To practice extending classes.
+VERSION or DATE: 2/25/21
+AUTHORS: Domenic Iorfida
+
+Initial Successes:
+I was able to create each of the OOP objects for the different terrains and include
+the extend keyword in the class definition. I also created the get methods for a
+string of each of the different classes. Lastly, I was able to create a tester
+class and print everything to the output screen.
+
+Strugg
+The only thing that I forgot is that the direct subclasses directly inherit the
+methods from the extended class. When I went to use them, I was trying to search
+for some variable that I could use to get the methods but they were already there.
+Once I figured that out, I was all set.

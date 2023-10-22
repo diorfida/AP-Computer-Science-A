@@ -1,0 +1,16 @@
+PROJECT TITLE: 7.08 Assignment
+PURPOSE OF PROJECT: Use OOP and algorithm tactics to create a gradebook.
+VERSION or DATE: 2/7/21
+AUTHORS: Domenic Iorfida
+
+Initial Successes:
+I was able to create the OOP Student class very efficiently. I found it easy to
+create the instance variables, constructor, getter and setter methods, and the
+toString method. In the tester class, I successfully used the ArrayList to store
+Student objects. I was also able to create and use the methods for modifying the
+ArrayList.
+
+Struggles and Overcoming them:
+The only thing that I really struggled with was keeping track of what was in the
+ArrayList at each particular time. Other than that I was successful with all 
+aspects of the project.

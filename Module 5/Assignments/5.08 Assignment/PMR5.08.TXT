@@ -1,0 +1,16 @@
+PROJECT TITLE: 5.08 Assignment
+PURPOSE OF PROJECT: To create and use an object and its methods.
+VERSION or DATE: 11/13/20
+AUTHORS: Domenic Iorfida
+
+Initial Successes:
+I was able to create and use the constructor for my grade class with no problems.
+This means that I was also able to initialize and use private entities within the
+class. I also had no issue creating the methods to use. In the tester class, I
+properly used the constructor to add three students to the program.
+
+Struggles and Overcoming Them:
+I am getting better at formatting output, but the \t keyword is still a bit
+confusing to me. After some trial and error, I was able to make the output look
+presentable. I also struggled a bit with the casting with the grade inputs, since I
+had not done that in a while.

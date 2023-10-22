@@ -1,0 +1,15 @@
+PROJECT TITLE: 7.09 Assignment
+PURPOSE OF PROJECT: To implement a sorting method for arrays.
+VERSION or DATE: 2/8/21
+AUTHORS: Domenic Iorfida
+
+Initial Successes:
+I was able to declare and use an array of Movies how intended. I declared the
+static methods necessary for the sorting algorithms. I also created the sorting
+algorithms and was able to use it with my array in the main method.
+
+Struggles and Overcoming them:
+My main struggle was making the sorting methods sort in reverse order. I didn't
+immediately understand how the sorting algorithm worked in full, so that made it
+difficult to then put it in reverse order. I then figured out that all I needed to
+do was flip the greater than sign to less than to go in reserse order.

@@ -1,0 +1,23 @@
+import classes
+
+declare class and main method
+
+Initialize classes
+
+print welcome
+
+while user input is not within bounds: 
+	keep asking
+
+for (init sim counter) (the total simulations being less than the target simulations) (sim counter ++):
+	for (init total animal counter) (not a fox squirrel) (total animal counter ++):
+		get random number
+		if it is a fox squirrel:
+			print the total animal counter to the text file
+
+while the file has a next integer:
+	total += the token
+
+get the average
+
+print results

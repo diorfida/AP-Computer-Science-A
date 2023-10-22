@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=PrimeCalculator
+comment1.params=lower\ upper
+comment1.target=int[]\ calcPrimes(int,\ int)
+numComments=2

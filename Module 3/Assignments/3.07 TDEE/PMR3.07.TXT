@@ -1,0 +1,19 @@
+PROJECT TITLE: 3.07 TDEE
+PURPOSE OF PROJECT: To create a program that uses string class techniques to
+calculate the TDEE of some user inputs.
+VERSION or DATE: 10/7/20
+AUTHORS: Domenic Iorfida
+
+Initial Successes:
+I think that the Scanner class and parsing is becoming second nature now. I was 
+able to use all of the necessary methods properly. The calculation to get the TDEE
+was esay to create as well.
+
+Struggles and Overcoming Them:
+The conditional statements weren't working like they were intended to. This was
+because I was using the logical operator == rather than the equals() method for
+strings. That quickly resolved itself. The method toUpperCase() wasn't working at
+first as well, and this was because of an error I had made in naming the variables.
+I had misspelled [I believe it was] activity, and when I went to use it the program
+would break. Luckily, I was able to find that error and it worked from there.
+Everything else went pretty well; I didn't have that much trouble.

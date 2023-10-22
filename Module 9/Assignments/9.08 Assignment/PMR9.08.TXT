@@ -1,0 +1,22 @@
+PROJECT TITLE: 9.08 Assignment
+PURPOSE OF PROJECT: To use learned programming techniques to calculate the number
+of prime numbers in a given set.
+VERSION or DATE: 3/10/21
+AUTHORS: Domenic Iorfida
+
+Initial Successes:
+I was able to declare the classes and a method to calculate the prime numbers in
+the object class. I also was able to set up the Scanner class for user input.
+Furthermore, I created a general alogorithm for determining if a number was prime
+or not, even though I struggled a bit at first. Lastly, I printed the results of
+the program to the output screen.
+
+Struggles and Overcoming them:
+The main struggle that I had was with the prime determination algorithm. First, I
+was getting all of the numbers returned, so I decided to remove the mod 1 so that
+the program just started dividing the numbers by 2. Then, it was returning multiple
+values for the same number. I decided to add a break statement in the if loop that
+is inside of the nested for loop. Then, it was only returning the numbers that
+weren't prime! I had to switch around my logic and use a temp integer so that if
+that temp integer was greater than 0, the number would not be prime rather than
+just adding it to the ArrayList directly.

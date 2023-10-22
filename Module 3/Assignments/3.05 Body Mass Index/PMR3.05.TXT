@@ -1,0 +1,18 @@
+PROJECT TITLE: 3.05 Body Mass Index
+PURPOSE OF PROJECT: To calculate BMI and determine the weight status.
+VERSION or DATE: 10/2/20
+AUTHORS: Domenic Iorfida
+
+Initial Successes:
+I was able to use the if and else-if statements without any trouble, as well as
+obtaining and parsing the inputs if necessary. Printing each of the necessary items
+was also a success.
+
+Struggles and Overcoming them:
+My main issue was the math not coming out to where it should've. I knew what
+conversions that I needed to do, but the BMI was always coming out to around 2. I 
+figured out that I was converting the centimeters (derived from the inches) the
+opposite way by multiplying by 10 rather than dividing by it. The other issue I
+had was a slight parsing issue with the height input. When I tried to parse it, the
+program would say that the input wasn't an integer. I realized that it was counting
+the space, so I had to use the substring() method to fix that.

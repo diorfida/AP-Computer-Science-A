@@ -1,0 +1,18 @@
+PROJECT TITLE: 7.03 Challenge Program
+PURPOSE OF PROJECT: To determine and print data based on a set of hurricane data.
+VERSION or DATE: 2/5/21
+AUTHORS: Domenic Iorfida
+
+Initial Successes:
+I was able to structure the code that I needed to create an OOP program and tester
+class. I also correctly used multiple arrays and an ArrayList of Hurricanes to
+use that information for the output. I was also able to apply what I had previously
+learned about integers and doubles to create the program to determine the min and
+max value.
+
+Struggles and overcoming them:
+I had to rearange my program because I had put the code for determining the min,
+max, and average before resizing the data based on the user input. This was a minor
+setback, but it took a lot of time. The other main thing that I struggled with was
+formatting the output, which took some time and was a bit confusing at the
+beginning.

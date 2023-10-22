@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ElectionTesterV4
+comment1.params=candidates
+comment1.target=void\ printCandidates(java.util.ArrayList)
+comment2.params=candidates
+comment2.target=int\ totalVotesCast(java.util.ArrayList)
+comment3.params=candidates\ total
+comment3.target=void\ printElectionTable(java.util.ArrayList,\ int)
+comment4.params=candidates\ oldName\ newName
+comment4.target=void\ changeName(java.util.ArrayList,\ java.lang.String,\ java.lang.String)
+comment5.params=candidates\ nameFind\ newVotes
+comment5.target=void\ changeVotes(java.util.ArrayList,\ java.lang.String,\ int)
+comment6.params=candidates\ nameFind\ newName\ newVotes
+comment6.target=void\ changeAll(java.util.ArrayList,\ java.lang.String,\ java.lang.String,\ int)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

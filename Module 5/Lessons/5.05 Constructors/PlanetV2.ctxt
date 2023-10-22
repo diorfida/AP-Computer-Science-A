@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PlanetV2
+comment0.text=\r\n\ @purpose\:\ PlanetV2\ class\ -\ uses\ Procedural\ Programming\ and\ static\ methods\r\n\r\n\ @author\ APCS\ Team\r\n\ @version\ FLVS\ 2020\r\n
+comment1.params=diameter
+comment1.target=double\ calcRadius(double)
+comment2.params=n\ rad
+comment2.target=void\ printPlanet(java.lang.String,\ double)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

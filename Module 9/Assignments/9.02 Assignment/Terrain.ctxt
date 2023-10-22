@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Terrain
+comment0.text=\r\n\ Thic\ class\ defines\ a\ basic\ Terrain.\r\n\r\n\ @author\ Domenic\ Iorfida\r\n\ @version\ 2/24/21\r\n
+comment1.params=l\ w
+comment1.target=Terrain(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Terrain\r\n
+comment2.params=
+comment2.target=java.lang.String\ getTerrainSize()
+numComments=3

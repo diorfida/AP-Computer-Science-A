@@ -1,0 +1,13 @@
+PROJECT TITLE: 1.13 Currency Conversion
+PURPOSE OF PROJECT: Use arithmetic operators and casting to print some currency
+conversions for a 3 country trip.
+VERSION or DATE: 9/10/20
+AUTHORS: Domenic Iorfida
+
+Initial Successes:
+
+
+Struggles and Overcoming Them:
+
+
+What I Need to Work On:

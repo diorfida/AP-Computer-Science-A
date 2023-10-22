@@ -1,0 +1,15 @@
+PROJECT TITLE: 10.07 Assignment
+PURPOSE OF PROJECT: To use array sorting algorithms and the new merge sort.
+VERSION or DATE: 3/30/21
+AUTHORS: Domenic Iorfida
+
+Initial Successes:
+I created the store item OOP class with no issues. I was able to implement each
+different array sorting algorithm in the tester class's main method. I was also
+successful at displaying the output in a neat table format.
+
+Struggles and Overcoming them:
+The merge sort was a little bit confusing at first since there is a lot going on,
+but after studying it for some time and understanding the point of the recursive
+calls and loops, I was able to implement it twice. Other than that I was extremely
+successful with this project.

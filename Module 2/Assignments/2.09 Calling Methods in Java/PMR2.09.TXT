@@ -1,0 +1,17 @@
+PROJECT TITLE: Making Method Calls
+PURPOSE OF PROJECT: To use static methods to print the results of some mathematical
+items to the screen.
+VERSION or DATE: 9/23/20
+AUTHORS: Domenic Iorfida, APCS Team
+
+Initial Successes:
+The methods that were provided for this project were very straightforward and it
+was easy to understand what was going on with them. Some of them had integer inputs
+and some of them just printed the intended statement. One of them also had an 
+integer return statement. The javadoc comments throughout the main method were also
+straightforward and easy to understand what task needed to be accomplished.
+
+Struggles and Overcoming Them:
+I didn't really struggle with anything in this assignment. I had already had some
+knowledge of how to write and use methods, so I was able to tell what was going on
+in each method and how I would use it.

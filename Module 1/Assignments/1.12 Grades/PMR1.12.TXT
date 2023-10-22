@@ -1,0 +1,23 @@
+PROJECT TITLE: 1.12 Grades
+PURPOSE OF PROJECT: Use arithmetic Java shortcuts to display test grades and other
+grade information
+VERSION or DATE: 9/9/20
+AUTHORS: Domenic Iorfida
+
+Initial Successes:
+I was able to use the proper print statements right away. I knew the difference
+between the print() and println() from previous practice. From the start, I also
+had a pretty good idea of how I would calculate and display the information on
+the output screen.
+
+Challenges and Overcoming Them:
+The surprise of being able to only use the variables provided confused me at first.
+My initial instinct was to create a variable for each different grade and find the
+other values through a for loop, which we haven't learned about yet. However, I 
+quickly realized why the given variables were there (to practice with assignment 
+and shortcuts), so I made use of those through what was given to me in the
+lesson.
+
+What I Need to Work On:
+Sometimes it appears that I rush things without looking at what I'm already given,
+so I just need to take a step back and examine what I'm given.
